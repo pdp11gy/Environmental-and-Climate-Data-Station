@@ -29,7 +29,11 @@ AI assistant can work together on an electronics and software project.
 
 The entire software has been tested over a period of three months and runs error-free.                            
 The entire software, Climatestation.zip will be located here or can be downloaded from                            
-my homepage: http://pdp11gy.com/Klima/Climatestation.zip                                                         
+my homepage: http://pdp11gy.com/Klima/Climatestation.zip  
 
 My request: Any input is very welcome—including an exchange of views, suggestions, and pointers. 
-Feel free to send links as well.
+Feel free to send links as well.                                                                                
+On a personal note: I am over 72 now, but exchanging ideas is still very important                              
+to me. Perhaps someone will come along who builds upon my concept and expands it.                               
+I currently lack the energy myself, though I had intended to implement better data 
+analysis using matplotlib. Perhaps someone will get in touch? I would be very pleased.
