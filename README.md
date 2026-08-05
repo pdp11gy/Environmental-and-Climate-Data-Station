@@ -8,10 +8,16 @@ This open environmental and climate monitoring station was developed to collect 
 over the long term and to make the design freely available to others for replication. The goal is to 
 enable a growing network of independent monitoring stations.
 This project originated as a private, long-term experiment to collect environmental and climate data 
-using inexpensive microcontrollers and was supported by AI during its development.                                                   
+using inexpensive microcontrollers and was supported by AI during its development.   
+
+The distinctive feature of my concept is that it is extremely flexible and very cost-effective. The motto is:
+"Every sensor has its own Raspberry Pi Pico." It features a redundant design comprising two monitoring 
+stations and a specialized radiation station for measuring radioactivity and UV radiation.                                
+
 Architecture: 
 A precise and very detailed description, Climatestation.html can be found here or on my homepage: 
-https://pdp11gy.com/Climatestation.html with a link to the programs                                                             
+https://pdp11gy.com/Climatestation.html with a link to the programs   
+
 Project:
 AI / ChatGPT  was used as a development partner.
 This project was developed with support from OpenAI's ChatGPT.
