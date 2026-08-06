@@ -28,7 +28,7 @@ out by the author.The project therefore represents a practical example of how a 
 AI assistant can work together on an electronics and software project.
 
 The entire software has been tested over a period of three months and runs error-free.                            
-The entire software, Climatestation.zip will be located here or can be downloaded from                            
+**The entire software, Climatestation.zip is located here** or can be downloaded from                           
 my homepage: http://pdp11gy.com/Klima/Climatestation.zip  
 
 My request: Any input is very welcome—including an exchange of views, suggestions, and pointers. 
