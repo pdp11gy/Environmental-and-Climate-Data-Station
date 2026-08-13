@@ -12,11 +12,15 @@ using inexpensive microcontrollers and was supported by AI during its developmen
 
 The distinctive feature of my concept is that it is extremely flexible and very cost-effective. The motto is:
 "Every sensor has its own Raspberry Pi Pico." It features a redundant design comprising two monitoring 
-stations and a specialized radiation station for measuring radioactivity and UV radiation.                                
+stations and a specialized radiation station for measuring radioactivity and UV radiation.                                         
+My concept is very easily expandable with additional sensors and stations. The  Extensions/UV+GAS folder 
+contains an example with two sensors: an LTR390 UV sensor and an SGP30 MOX gas sensor. This example demonstrate 
+how quickly ( 2-3 hour) the sensor data are available on handy or PC. The data are saved in .json format.
 
 Architecture: 
 A precise and very detailed description, Climatestation.html can be found here or on my homepage: 
-https://pdp11gy.com/Climatestation.html with a link to the programs   
+https://pdp11gy.com/Climatestation.html with a link (http://pdp11gy.com/Klima/Climatestation.zip)                                   
+to all the programs, written in python.   
 
 Project:
 AI / ChatGPT  was used as a development partner.
@@ -33,7 +37,7 @@ my homepage: http://pdp11gy.com/Klima/Climatestation.zip
 
 My request: Any input is very welcome—including an exchange of views, suggestions, and pointers. 
 Feel free to send links as well.                                                                                
-On a personal note: I am over 72 now, but exchanging ideas is still very important                              
+On a personal note: I'm getting on in years, but exchanging ideas is still very important                              
 to me. Perhaps someone will come along who builds upon my concept and expands it.                               
 I currently lack the energy myself, though I had intended to implement better data 
 analysis using matplotlib. Perhaps someone will get in touch? I would be very pleased.
