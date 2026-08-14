@@ -12,8 +12,7 @@ using inexpensive microcontrollers and was supported by AI during its developmen
 
 The distinctive feature of my concept is that it is extremely flexible and very cost-effective. The motto is:
 "Every sensor has its own Raspberry Pi Pico." It features a redundant design comprising two monitoring 
-stations and a specialized radiation station for measuring radioactivity and UV radiation.                                         
-My concept is very easily expandable with additional sensors and stations. The  Extensions/UV+GAS folder 
+stations and a specialized **radiation station** for measuring radioactivity and UV radiation.                                      My concept is very easily expandable with additional sensors and stations. The  Extensions/UV+GAS folder 
 contains an example with two sensors: an LTR390 UV sensor and an SGP30 MOX gas sensor. This example demonstrate 
 how quickly ( 2-3 hour) the sensor data are available on handy or PC. The data are saved in .json format.
 
