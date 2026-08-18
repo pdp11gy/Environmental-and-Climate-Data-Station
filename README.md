@@ -19,7 +19,7 @@ how quickly ( 2-3 hour) the sensor data are available on handy or PC. The data a
 Architecture:                                                                                                                       
 Mechanical part of the project: I have found a way to build or replicate a professional climate station                          
 using standard mechanical components from hardware stores and even household items.                                             
-A precise and very detailed description, **Climatestation.html** is available on my homepage: 
+A precise and very detailed description, **Climatestation.html** is available on my homepage:                                      
 **https://pdp11gy.com/Climatestation.html** with a link, **http://pdp11gy.com/Klima/Climatestation.zip**                            
 to all the programs. All my python programs are also available here, folder Version-1 to Version-4   
 
@@ -35,7 +35,7 @@ AI assistant can work together on an electronics and software project.
 Status:                                                                                                                            
 My idea is to create a calendar icon and an icon for each sensor as well. This would allow a user to select                        
 a date and choose two to four sensors, then visualize the interdependencies graphically.                                            
-My request: Any input is very welcome—including an exchange of views, suggestions, and pointers. 
+My request: Any input is very welcome - including an exchange of views, suggestions, and pointers. 
 Feel free to send links as well.                                                                                
 On a personal note: I'm getting on in years, but exchanging ideas is still very important                              
 to me. Perhaps someone will come along who builds upon my concept and expands it.                               
