@@ -16,10 +16,12 @@ stations and a specialized **radiation station** for measuring radioactivity and
 contains an example with two sensors: an LTR390 UV sensor and an SGP30 MOX gas sensor. This example demonstrate 
 how quickly ( 2-3 hour) the sensor data are available on handy or PC. The data are saved in .json format.
 
-Architecture: 
-A precise and very detailed description, Climatestation.html can be found here or on my homepage: 
-https://pdp11gy.com/Climatestation.html with a link (http://pdp11gy.com/Klima/Climatestation.zip)                                   
-to all the programs, written in python.   
+Architecture:                                                                                                                       
+Mechanical part of the project: I have found a way to build or replicate a professional climate station                          
+using standard mechanical components from hardware stores and even household items.                                             
+A precise and very detailed description, **Climatestation.html** is available on my homepage: 
+**https://pdp11gy.com/Climatestation.html** with a link, **http://pdp11gy.com/Klima/Climatestation.zip**                            
+to all the programs. All my python programs are also available here, folder Version-1 to Version-4   
 
 Project:
 AI / ChatGPT  was used as a development partner.
@@ -30,10 +32,9 @@ matplotlib.The hardware assembly, measurements, experiments, testing and final i
 out by the author.The project therefore represents a practical example of how a human developer and an 
 AI assistant can work together on an electronics and software project.
 
-The entire software has been tested over a period of three months and runs error-free.                            
-**The entire software, Climatestation.zip is located here** or can be downloaded from                           
-my homepage: http://pdp11gy.com/Klima/Climatestation.zip  
-
+Status:                                                                                                                            
+My idea is to create a calendar icon and an icon for each sensor as well. This would allow a user to select                        
+a date and choose two to four sensors, then visualize the interdependencies graphically.                                            
 My request: Any input is very welcome—including an exchange of views, suggestions, and pointers. 
 Feel free to send links as well.                                                                                
 On a personal note: I'm getting on in years, but exchanging ideas is still very important                              
