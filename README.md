@@ -33,11 +33,6 @@ out by the author.The project therefore represents a practical example of how a 
 AI assistant can work together on an electronics and software project.
 
 Status:                                                                                                                            
-My idea is to create a calendar icon and an icon for each sensor as well. This would allow a user to select                        
-a date and choose two to four sensors, then visualize the interdependencies graphically.                                            
-My request: Any input is very welcome - including an exchange of views, suggestions, and pointers. 
-Feel free to send links as well.                                                                                
-On a personal note: I'm getting on in years, but exchanging ideas is still very important                              
-to me. Perhaps someone will come along who builds upon my concept and expands it.                               
-I currently lack the energy myself, though I had intended to implement better data 
-analysis using matplotlib. Perhaps someone will get in touch? I would be very pleased.
+In progress and nearly finished: create a calendar icon and an icon for each sensor as well. This would allow                     
+a user to select a date/week and choose two to four sensors, then visualize the interdependencies graphically.                     
+If interested, please send an email. 
