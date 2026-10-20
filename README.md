@@ -31,8 +31,7 @@ including hardware concepts, Python programming, Flask web development, HTML/CSS
 matplotlib.The hardware assembly, measurements, experiments, testing and final implementation were carried 
 out by the author.The project therefore represents a practical example of how a human developer and an 
 AI assistant can work together on an electronics and software project.
-
-Status:                                                                                                                            
-In progress and nearly finished: create a calendar icon and an icon for each sensor as well. This would allow                     
-a user to select a date/week and choose two to four sensors, then visualize the interdependencies graphically.                     
-If interested, please send an email. 
+                                                                                                                      
+**Interactive Climate Data Analysis and Visualization**
+An interactive Python-based tool for exploring environmental and climate data over time. Select a specific day or calendar week, choose up to four sensor measurements, and visualize their relationships using Matplotlib. Compare data from multiple sensor stations to identify patterns, trends, and potential interdependencies between temperature, CO₂, particulate matter, UV radiation, and other environmental parameters.
+Still ongoing. Send E-Mail for more information
