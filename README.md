@@ -33,5 +33,5 @@ out by the author.The project therefore represents a practical example of how a 
 AI assistant can work together on an electronics and software project.
                                                                                                                       
 **Interactive Climate Data Analysis and Visualization**
-An interactive Python-based tool for exploring environmental and climate data over time. Select a specific day or calendar week, choose up to four sensor measurements, and visualize their relationships using Matplotlib. Compare data from multiple sensor stations to identify patterns, trends, and potential interdependencies between temperature, CO₂, particulate matter, UV radiation, and other environmental parameters.
-Still ongoing. Send E-Mail for more information
+An interactive Python-based tool for exploring environmental and climate data over time. Select a specific day or calendar week, choose up to four sensor measurements, and visualize their relationships using Matplotlib. Compare data from multiple sensor stations to identify patterns, trends, and potential interdependencies between temperature, CO₂, particulate matter, UV radiation, and other environmental parameters. Documentation and Python programs can be found here in the Climate_Data_Analysis folder. 
+The entire project with reference data can be downloaded here: http://pdp11gy.com/Klima/Climate_Data_Analysis.zip
