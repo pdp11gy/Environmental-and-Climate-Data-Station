@@ -13,8 +13,8 @@ using inexpensive microcontrollers and was supported by AI during its developmen
 The distinctive feature of my concept is that it is extremely flexible and very cost-effective. The motto is:
 "Every sensor has its own Raspberry Pi Pico." It features a redundant design comprising two monitoring 
 stations and a specialized **radiation station** for measuring radioactivity and UV radiation.                                      My concept is very easily expandable with additional sensors and stations. The  Extensions/UV+GAS folder 
-contains an example with two sensors: an LTR390 UV sensor and an SGP30 MOX gas sensor. This example demonstrate 
-how quickly ( 2-3 hour) the sensor data are available on handy or PC. The data are saved in .json format.
+contains an example with two sensors: an LTR390 UV sensor and an SGP30 MOX gas sensor. This example demonstrates 
+how quickly ( 1-2 hours) the sensor data are available on smartphone or PC. The data are saved in .json format.
 
 Architecture:                                                                                                                       
 Mechanical part of the project: I have found a way to build or replicate a professional climate station                          
@@ -33,5 +33,13 @@ out by the author.The project therefore represents a practical example of how a 
 AI assistant can work together on an electronics and software project.
                                                                                                                       
 **Interactive Climate Data Analysis and Visualization**
-An interactive Python-based tool for exploring environmental and climate data over time. Select a specific day or calendar week, choose up to four sensor measurements, and visualize their relationships using Matplotlib. Compare data from multiple sensor stations to identify patterns, trends, and potential interdependencies between temperature, CO₂, particulate matter, UV radiation, and other environmental parameters. Documentation and Python programs can be found here in the Climate_Data_Analysis folder. 
+An interactive Python-based tool for exploring environmental and climate data over time. Select a specific day or calendar week, choose up to four sensor measurements, and visualize their relationships using Matplotlib. Compare data from multiple sensor stations to identify patterns, trends, and potential interdependencies between temperature, CO₂, particulate matter, UV radiation, and other environmental parameters. 
+- Separate German and English program versions.
+- Daily and weekly data analysis.
+- Selection of up to four sensor measurements.
+- Individual charts or combined charts with multiple Y-axes.
+- Weekly statistics with minimum, maximum and average values.
+- Configuration through config.ini.
+- Automatic version numbering for saved diagrams and statistics.
+Documentation and Python programs can be found here in the Climate_Data_Analysis folder. 
 The entire project with reference data can be downloaded here: http://pdp11gy.com/Klima/Climate_Data_Analysis.zip
