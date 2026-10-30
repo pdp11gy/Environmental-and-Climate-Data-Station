@@ -42,5 +42,5 @@ An interactive Python-based tool for exploring environmental and climate data ov
 - Configuration through config.ini.
 - Automatic version numbering for saved diagrams and statistics.
   
-Documentation and Python programs can be found here in the Climate_Data_Analysis folder. 
+Documentation and Python programs can be found here in the **Climate_Data_Analysis** folder. 
 The entire project with reference data can be downloaded here: http://pdp11gy.com/Klima/Climate_Data_Analysis.zip
