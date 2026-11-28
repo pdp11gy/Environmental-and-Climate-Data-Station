@@ -1,0 +1,17 @@
+
+                  crontab - entries ( crontab -e )
+
+
+Station-1:
+
+*/5 * * * * /usr/bin/rpicam-still --nopreview -o /mnt/ssd/cam/bild.jpg >/dev/null 2>&1
+0 14 * * * /bin/cp /mnt/ssd/cam/bild.jpg /mnt/ssd/cam/$(/bin/date +\%Y-\%m-\%d_\%H\%M).jpg
+
+
+
+Station-2:
+
+*/5 * * * * /usr/bin/rpicam-still --nopreview -o /mnt/ssd/cam/bild.jpg >/dev/null 2>&1
+30 14 * * * /bin/cp /mnt/ssd/cam/bild.jpg /mnt/ssd/cam/$(/bin/date +\%Y-\%m-\%d_\%H\%M).jpg
+*/15 * * * * scp -q -p /mnt/ssd/cam/bild.jpg pi@192.168.178.80:/mnt/ssd/cam/bild2.jpg.tmp && ssh pi@192.168.178.80 'mv /mnt/ssd/cam/bild2.jpg.tmp /mnt/ssd/cam/bild2.jpg'
+
